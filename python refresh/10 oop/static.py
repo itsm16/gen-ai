@@ -5,4 +5,4 @@ class ChaiUtils:
 raw = " water , milk , ginger "
 
 obj = ChaiUtils()
-obj.clean_ingredients(raw)
+print(obj.clean_ingredients(raw))
